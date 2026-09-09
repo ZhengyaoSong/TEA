@@ -1,5 +1,0 @@
-attack_label_trans: all2one
-attack_target: 0
-pratio: 0.00004
-attack: badnet
-patch_mask_path: ../resource/badnet/bottom_right_3by3_white.npy
